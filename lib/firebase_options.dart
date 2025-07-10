@@ -63,7 +63,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '592895656758',
     projectId: 'workings-688c0',
     storageBucket: 'workings-688c0.firebasestorage.app',
-    androidClientId: '592895656758-aqk5f43rl016lsuerv50gfmnfofmjg90.apps.googleusercontent.com',
+    androidClientId: '592895656758-0ln0oma24ddki8sbga3mufb2va2viv8o.apps.googleusercontent.com',
     iosClientId: '592895656758-fbjq3tm3bvppfb1a1kgiukt7poe54upg.apps.googleusercontent.com',
     iosBundleId: 'com.workings.proapp',
   );

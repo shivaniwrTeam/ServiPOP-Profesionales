@@ -1,8 +1,8 @@
 import '../app/generalImports.dart';
 
-const String appName = 'ServiPOP Pro';
+const String appName = 'ServiPOP Profesionales';
 
-const String baseUrl = 'https://admin.workings.es/partner/api/v1/';
+const String baseUrl = 'https://admin.servipop.pro/partner/api/v1/';
 
 const bool isDemoMode = false;
 

@@ -13,7 +13,7 @@
         android:allowBackup="false"
         android:fullBackupOnly="false"
         android:icon="@mipmap/ic_launcher"
-        android:label="ServiPOP Pro"
+        android:label="ServiPOP Profesionales"
         android:extractNativeLibs="true">
 
         <activity
@@ -65,7 +65,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCIU8zJsXd2KpvSZDwtPyeNfc4djQuwv_0"/>
+            android:value="AIzaSyD8Ux3jArusbVoNM6oLe_tGliEIJom8IxA"/>
 
     </application>
 </manifest>
